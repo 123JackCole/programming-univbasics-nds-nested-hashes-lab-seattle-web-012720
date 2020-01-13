@@ -26,7 +26,7 @@ def literal_aoh
   
   array = [
     DON_G,
-    JOELLE_VD
+    JOELLE_VD,
     PAT_M,
     KATE_G,
     BRUCE_G
